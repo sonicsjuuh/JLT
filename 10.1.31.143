@@ -186,6 +186,7 @@ ip http secure-server
 !
 control-plane
 !
+banner motd ^C Currently beeing set up by Jan for testing of Oxidzed.^C
 !
 line con 0
  password 7 0822455D0A16
