@@ -68,7 +68,7 @@ service password-encryption
 platform qfp utilization monitor load 80
 no platform punt-keepalive disable-kernel-core
 !
-hostname RouterTest
+hostname Router4566
 !
 boot-start-marker
 boot-end-marker
